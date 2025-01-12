@@ -15,7 +15,7 @@
     $multi = $n1 * $n2;
     $divi = $n1 / $n2;
     ?>
-    <p><i>La suma es: </i><strong><?php echo $suma ?></strong></p>
+    <p><i>La suma es: </i><strong><?php $suma ?></strong></p>
     <p><i>La resta es: </i><strong><?php echo $resta ?></strong></p>
     <p><i>La multiplicación es: </i><strong><?php echo $multi ?></strong></p>
     <p><i>La división es: </i><strong><?php echo $divi ?></strong></p>
